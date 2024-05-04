@@ -3,4 +3,4 @@ This repository contains all of the information you need to start wiring up and 
 
 Blog - https://ittechnes.blogspot.com/
 
-7-segment display -
+7-segment display - N/A
